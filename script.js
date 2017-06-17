@@ -1,0 +1,1 @@
+alert('hellp from script.js');
